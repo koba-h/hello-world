@@ -1,6 +1,4 @@
-# github-tutorial
-1. github
-- git log -oneline
+# github-tutorial  
 
 1. 設定・確認
 - git init
@@ -18,12 +16,14 @@
 
 - git diff
 
+
 1. コミット
 - git add
     ステージングエリアに追加
 
 - git commit
     コミットの実行
+
 
 1. 修正
 - git commit --amend --no-edit
@@ -41,6 +41,7 @@
 - git rm
     ファイルとindex情報の削除
 
+
 1. リモート
 - git clone
     リポジトリをコピー
@@ -52,6 +53,7 @@
     プルリクエスト(変更依頼)
 - git remote
     リモートリポジトリの設定
+
 
 1. ブランチ
 - git branch
