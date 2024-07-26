@@ -6,6 +6,15 @@ permalink: /docs/git-memo
 
 # ソフトウェア工学 2024
 
+### 目次
+
+1. [導入](/docs/git-memo#導入)
+1. [ソフトウェア](/docs/git-memo#ソフトウェア)
+1. [*WBS*](/docs/git-memo#wbs-work-breakdown-structure)
+1. [コーディング](/docs/git-memo#コーディング)
+1. [バージョン管理](/docs/git-memo#バージョン管理)
+    - [*github-command-list*](/docs/git-memo.md#github-command-list)
+
 ### 導入
 
 ソフトウェアエンジニアリングの基礎知識と実務的なスキルの習得を目標とした。
